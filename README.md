@@ -1,4 +1,5 @@
 # SHIFTLOCK
+___
 
 ## O systemie
 
@@ -16,7 +17,7 @@
 #### Na rynku pojawiły się też programy podobne do naszego takie jak:  https://serwersms.pl/funkcje/funkcje-systemowe
 #### Jednak że nasz program jest mniej skomplikowany. Jedynie co należy zrobić to wysłać maila i zapoznać się z naszymi szczegółami.
 
-# Logo
+## Logo
 
 #### Aby mieć pewność, że korzystasz z naszego produktu nasza firma posługuje się tym logo:
 ![picture1](https://user-images.githubusercontent.com/39926876/40942051-302e2b36-684d-11e8-9892-f6408172fe6e.png)
@@ -26,7 +27,7 @@
 
 ## Kontakt
 
-### Jeśli chcesz się z nami skontaktować, zapraszamy na stronę internetową SCHEDULEUS.ME na facebooku, osobiście w godzinach od 14-18 na ul. Sokolskiej 2 w Katowicach w każdy poniedziałek i piątek lub podjedź do nas na uczelni.
+#### Jeśli chcesz się z nami skontaktować, zapraszamy na stronę internetową SCHEDULEUS.ME na facebooku, osobiście w godzinach od 14-18 na ul. Sokolskiej 2 w Katowicach w każdy poniedziałek i piątek lub podjedź do nas na uczelni.
 
 
 ## Kod systemu
