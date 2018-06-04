@@ -17,8 +17,7 @@
 #### Jednak że nasz program jest mniej skomplikowany. Jedynie co należy zrobić to wysłać maila i zapoznać się z naszymi szczegółami.
 
 #### Aby mieć pewność, że korzystasz z naszego produktu nasza firma posługuje się tym logo:
-
-## [Click me](https://drive.google.com/file/d/1dhihyDA8MSp9ByKUoQj2dUPQPQWZ-wFv/view?usp=sharing "Google's Homepage")
+![picture1](https://user-images.githubusercontent.com/39926876/40942051-302e2b36-684d-11e8-9892-f6408172fe6e.png)
 
  #### Z obawy przed podróbkami nasza firma zastrzegła sobie logo naszej strony które przedstawia: ołówek na którym widnieje napis ,,sheduleus.me” natomiast na gumce tego ołówka widnieje skrót naszego Uniwersytetu ,,US”.
 
