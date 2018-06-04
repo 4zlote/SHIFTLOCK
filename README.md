@@ -24,10 +24,13 @@ ___
 
  #### Z obawy przed podróbkami nasza firma zastrzegła sobie logo naszej strony które przedstawia: ołówek na którym widnieje napis ,,sheduleus.me” natomiast na gumce tego ołówka widnieje skrót naszego Uniwersytetu ,,US”.
 
+## Jak wygląda wiadomość?
+![screenshot_20180604-232747](https://user-images.githubusercontent.com/39926876/40942614-0db561c6-684f-11e8-93e8-f3a718dfdf26.png)
 
 ## Kontakt
 
 #### Jeśli chcesz się z nami skontaktować, zapraszamy na stronę internetową SCHEDULEUS.ME na facebooku, osobiście w godzinach od 14-18 na ul. Sokolskiej 2 w Katowicach w każdy poniedziałek i piątek lub podjedź do nas na uczelni.
+
 
 
 ## Kod systemu
